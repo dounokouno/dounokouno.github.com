@@ -1,0 +1,9 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>テスト</title>
+<body>
+<p>.htaccessによるWebサーバ設定(例としてDirectoryIndex)の変更テスト</p>
+このページのファイル名は<!--#echo var="DOCUMENT_NAME" -->
+</body>
+</html>

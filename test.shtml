@@ -1,0 +1,10 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>テスト</title>
+<body>
+SSIテスト
+<!--#config timefmt="%Y/%m/%d %H:%M:%S" -->
+<!--#echo var="DATE_LOCAL" -->
+</body>
+</html>
